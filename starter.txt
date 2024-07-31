@@ -1,0 +1,14 @@
+npm i express-generator -g
+
+express appname --view=ejs
+
+cd appname
+
+npm install
+
+code . // open in vs code
+
+
+//multer for image upload
+//uuid for unique name
+npm i uuid multer
